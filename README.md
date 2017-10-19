@@ -8,7 +8,7 @@ Skip over to section [Solution] (#Solution).
 # Problems:
 
 
-# Solution:
+# Solution
 
 
 
