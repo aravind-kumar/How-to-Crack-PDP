@@ -9,14 +9,14 @@ Skip over to section [Solution](#Solution).
 
 1.Heavy emphasis to boiler-plate code and/or comments
 
-PDP is good when it comes to learning a functional language and 
+  PDP is good when it comes to learning a functional language and 
 
-learning how to designing scalable and modular programs.
+  learning how to designing scalable and modular programs.
 
 
-Having said that heavy emphasis is given to boiler-plate/comments which 
+  Having said that heavy emphasis is given to boiler-plate/comments which 
 
-may/may not be a good thing but it surely is time consuming.
+  may/may not be a good thing but it surely is time consuming.
 
 
 
