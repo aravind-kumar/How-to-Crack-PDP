@@ -9,10 +9,7 @@ Skip over to section [Solution](#Solution).
 
 1.Heavy emphasis to boiler-plate code and/or comments
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDP is good when it comes to learning a functional language and 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;learning how to designing scalable and modular programs.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDP is good when it comes to learning a functional language and learning how to designing scalable and modular programs.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which 
 
