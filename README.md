@@ -16,10 +16,18 @@ Skip over to section [Solution](#Solution).
 2.The use of Dr-Racket as an IDE
 
 2.1: Code looks the following before submission
+![alt text][logo]
+
+2.2 Code After submission
 
 
 # <a name="Solution"></a>Solution
 
+
+
+[beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
+
+[afterSubmission]:  https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/after%20submission.png
 
 
 
