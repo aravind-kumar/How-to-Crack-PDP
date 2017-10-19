@@ -16,9 +16,11 @@ Skip over to section [Solution](#Solution).
 2.The use of Dr-Racket as an IDE
 
 2.1: Code looks the following before submission
+
 ![alt text][beforeSubmission]
 
 2.2 Code After submission
+
 ![alt text][afterSubmission]
 
 
