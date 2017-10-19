@@ -13,6 +13,10 @@ Skip over to section [Solution](#Solution).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which may/may not be a good thing but it surely is time consuming.
 
+2.The use of Dr-Racket as an IDE
+
+2.1: Code looks the following before submission
+
 
 # <a name="Solution"></a>Solution
 
