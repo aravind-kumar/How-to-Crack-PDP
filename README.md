@@ -11,7 +11,7 @@ Skip over to section [Solution](#Solution).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDP is good when it comes to learning a functional language and learning how to designing scalable and modular programs.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which is a good thing,since the codebase one would work on would be shared by multiple peers,and one must write code which is readable and debuable by others,I understand that it's time consuming, Can we do something ? Yes :) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which is a good thing,since the codebase one would work on would be shared by multiple peers,and one must write code which is readable and debuable by others,I understand that it's time consuming, Can we get the best of both worlds ? Yes :) 
 
 2.The use of Dr-Racket as an IDE
 
