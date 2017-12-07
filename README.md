@@ -1,5 +1,5 @@
 # How-to-Crack-PDP
-This repo is meant to help all students who do not like Programming Design Paradims (PDP)
+This repo is meant to help all students help students in Programming Design Paradims (PDP)
 
 If you're a master's northeastern student, you know the pain.
 
@@ -32,6 +32,8 @@ Skip over to section [Solution](#Solution).
 
 [afterSubmission]:  https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/after%20submission.png
 
+
+[nosyntaxHighting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/.no%20syntax%20coloring.png
 
 
 
