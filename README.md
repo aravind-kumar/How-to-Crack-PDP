@@ -25,7 +25,7 @@ Skip over to section [Solution](#Solution).
 
 2.3 No Syntax Coloring
 
-![alt text][nosyntaxHighlighting]
+![alt text][nosyntaxHighlihting]
 
 2.4 Lack of autocomplete
 
@@ -48,7 +48,7 @@ Skip over to section [Solution](#Solution).
 
 [autoComplete]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/Autocomplete_new.png
 
-[nosyntaxHighting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
+[nosyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
 
 
