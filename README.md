@@ -11,7 +11,7 @@ Skip over to section [Solution](#Solution).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDP is good when it comes to learning a functional language and learning how to designing scalable,modular and readble programs.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which is a good thing,since the codebase one would work on would be shared by multiple peers,and one must write code which is readable and debuable by others,I understand that it's time consuming, Can we get the best of both worlds ? Yes :) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having said that heavy emphasis is given to boiler-plate/comments which is a good thing,since the codebase one would work on would be shared by multiple peers,and one must write code which is readable and debugable by others,I understand that it's time consuming, Can we get the best of both worlds ? Yes :) 
 
 2.The use of Dr-Racket as an IDE
 
@@ -23,6 +23,13 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][afterSubmission]
 
+2.3 No Syntax Coloring
+
+![alt text][nosyntaxHighlighting]
+
+2.4 Boilerplate code for each function,I understand that the boilerplate code is used enhance code reability,but its time consuming and redudant.
+
+
 
 # <a name="Solution"></a>Solution
 
@@ -33,7 +40,7 @@ Skip over to section [Solution](#Solution).
 [afterSubmission]:  https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/after%20submission.png
 
 
-[nosyntaxHighting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/.no%20syntax%20coloring.png
+[nosyntaxHighting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
 
 
