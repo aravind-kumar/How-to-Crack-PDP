@@ -27,6 +27,10 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][nosyntaxHighlighting]
 
+2.4 Lack of autocomplete
+
+![alt text][autoComplete]
+
 2.4 Boilerplate code for each function,I understand that the boilerplate code is used enhance code reability,but its time consuming and redudant.
 
 
@@ -39,6 +43,7 @@ Skip over to section [Solution](#Solution).
 
 [afterSubmission]:  https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/after%20submission.png
 
+[autoComplete]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/Autocomplete_new.png
 
 [nosyntaxHighting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
