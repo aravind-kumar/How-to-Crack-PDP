@@ -53,7 +53,7 @@ Skip over to section [Solution](#Solution).
 
 [nosyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
  
-[withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax\ coloring.png
+[withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax%20coloring.png
  
 
 
