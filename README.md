@@ -27,6 +27,10 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][nosyntaxHighlihting]
 
+2.4 With Syntax Coloring
+
+![alt text][withsyntaxHighlihting]
+
 2.4 Lack of autocomplete
 
 ![alt text][autoComplete]
@@ -41,7 +45,6 @@ Skip over to section [Solution](#Solution).
 # <a name="Solution"></a>Solution
 
 
-
 [beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
 [afterSubmission]:  https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/after%20submission.png
@@ -49,6 +52,9 @@ Skip over to section [Solution](#Solution).
 [autoComplete]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/Autocomplete_new.png
 
 [nosyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
+ 
+[withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax\ coloring.png
+ 
 
 
 
