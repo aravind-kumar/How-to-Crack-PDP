@@ -31,6 +31,9 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][autoComplete]
 
+2.5 Forgetting to push the commited code for evalution :sob:
+
+
 2.4 Boilerplate code for each function,I understand that the boilerplate code is used enhance code reability,but its time consuming and redudant.
 
 
