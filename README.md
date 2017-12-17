@@ -67,7 +67,9 @@ With Racket mode we have
 
 2.6 Faster Compilation and better error messages.
 
-2.7 No changes to code after submission as mentioned in [After Submission](#After Submission)
+2.7 No changes to code after submission 
+
+    ![alt text][afterSubmission]
 
     The reason why the code changes after submission is because students often practise racket with images file embedded into the source code
 
