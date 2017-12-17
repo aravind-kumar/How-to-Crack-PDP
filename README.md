@@ -29,16 +29,15 @@ Skip over to section [Solution](#Solution).
 
 2.4 With Syntax Coloring
 
-![alt text][withsyntaxHighlihting]
+![alt text][nosyntaxHighlihting]
 
 2.4 Lack of autocomplete
 
-![alt text][autoComplete]
+![alt text][nosyntaxHighlihting]
 
 2.5 Forgetting to push the commited code for evalution :sob:
 
 2.6 Manual filling of work-log after work-session,which i guess can be automated.
-
 
 # <a name="Solution"></a>Solution
 
@@ -58,7 +57,9 @@ With Racket mode we have
 
 2.3 Snippets for Boilerplate code.
 
-2.4 Auto Commit Plugin for those who forget to push code.
+2.4 Auto Commit Plugin for those who forget to push the latest code.
+
+2.5 Automatic filling of work log after every work session
 
 
 
