@@ -35,7 +35,7 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][nosyntaxHighlihting]
 
-2.5 Forgetting to push the commited code for evalution :sob:
+2.5 Forgetting to commit/push the commited code for evalution :sob:
 
 2.6 Manual filling of work-log after work-session,which i guess can be automated.
 
@@ -61,7 +61,7 @@ With Racket mode we have
 
 2.3 Snippets for Boilerplate code.
 
-2.4 Auto Commit Plugin for those who forget to push the latest code.
+2.4 Auto Commit Plugin for those who forget to commit/push the latest code.
 
 2.5 Automatic filling of work log after every work session
 
