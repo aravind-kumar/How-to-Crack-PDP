@@ -69,15 +69,15 @@ With Racket mode we have
 
 2.7 No changes to code after submission 
 
-    ![alt text][afterSubmission]
+![alt text][afterSubmission]
 
-    The reason why the code changes after submission is because students often practise racket with images file embedded into the source code
+The reason why the code changes after submission is because students often practise racket with images file embedded into the source code
 
-    The DrRacket encodes the images into a specific format hence when someone tries to open the source code in anything other than DrRacket
+The DrRacket encodes the images into a specific format hence when someone tries to open the source code in anything other than DrRacket
 
-    We have a gibberish code and since Github doesn't use DrRacket when we open the code,We have the issue mentioned.
+We have a gibberish code and since Github doesn't use DrRacket when we open the code,We have the issue mentioned.
 
-    Now since emacs/spacemacs does'nt support image encoding we would not have the problem faced otherwise.
+Now since emacs/spacemacs does'nt support image encoding we would not have the problem faced otherwise.
 
 [beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
