@@ -37,12 +37,29 @@ Skip over to section [Solution](#Solution).
 
 2.5 Forgetting to push the commited code for evalution :sob:
 
-
-2.4 Boilerplate code for each function,I understand that the boilerplate code is used enhance code reability,but its time consuming and redudant.
-
+2.6 Manual filling of work-log after work-session,which i guess can be automated.
 
 
 # <a name="Solution"></a>Solution
+
+Use emacs or spacemacs (incase you're a vim user like me)
+Native emacs/spacemacs doesn't support racket out of the box.
+We have to install racket mode on top of emacs/spacemacs to take support emacs/spacemacs.
+
+With Racket mode we have 
+
+2.1 Syntax Coloring
+
+![alt text][withsyntaxHighlihting]
+
+2.2 Autocomplete
+
+![alt text][autoComplete]
+
+2.3 Snippets for Boilerplate code.
+
+2.4 Auto Commit Plugin for those who forget to push code.
+
 
 
 [beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
