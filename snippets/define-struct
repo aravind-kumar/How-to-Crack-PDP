@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: define-struct
+# key: define
+# --
+
+;;; ***************************************************************************
+;;; DATA DEFINITIONS
+
+;;; REPRESENTATION:
+;;; A $1 is represented as
+;;; (make-$1 $2)
+;;; INTERPRETATION:
+;;; $2 : $3 which represents the $4
+
+;;; IMPLEMENTATION:
+(define-struct $1 ( $2 ))
+
+;;; CONSTRUCTOR TEMPLATE:
+;;; (make-$1 $3)
+
+;;; OBSERVER TEMPLATE:
+;;; $1 : $3 -> ??
+#; (define ($1 input)
+     (... ($1-$2 input) ...))
+
+;;; ***************************************************************************

@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: define
+# key: (def
+# --
+
+;;;****************************************************************************
+
+;;;$1: ${2:$$(yas/choose-value '("String" "Real" "Integer" "NonNegInt" "PosInt" "XList" "Boolean"))} -> ${3:$$(yas/choose-value '("String" "Real" "Integer" "NonNegInt" "PosInt" "XList" "Boolean"))}
+;;;GIVEN   : a $2 $4 which represents the $5 
+;;;RETURNS : a $3 $6
+;;;EXAMPLES :($1 ($9)) => $10 
+;;;DESIGN-STRATEGY: ${7:$$(yas/choose-value '("Use Constructor template" "Combine simpler functions" "Cases based on" "Use Observer template "))}
+
+(define ($1 $4)
+$8)
+
+#;(begin-for-test
+   (check-equal? ($1 ($9)) $10
+                  "Check if $1 returns "))) 
+$0
+;;;****************************************************************************
