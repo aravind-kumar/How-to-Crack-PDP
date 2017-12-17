@@ -19,7 +19,7 @@ Skip over to section [Solution](#Solution).
 
 ![alt text][beforeSubmission]
 
-2.2 Code After submission
+# <a name="After Submission"></a>2.2 Code After submission
 
 ![alt text][afterSubmission]
 
@@ -66,6 +66,16 @@ With Racket mode we have
 2.5 Automatic filling of work log after every work session
 
 2.6 Faster Compilation and better error messages.
+
+2.7 No changes to code after submission as mentioned in [After Submission](#After Submission)
+
+    The reason why the code changes after submission is because students often practise racket with images file embedded into the source code
+
+    The DrRacket encodes the images into a specific format hence when someone tries to open the source code in anything other than DrRacket
+
+    We have a gibberish code and since Github doesn't use DrRacket when we open the code,We have the issue mentioned.
+
+    Now since emacs/spacemacs does'nt support image encoding we would not have the problem faced otherwise.
 
 [beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
