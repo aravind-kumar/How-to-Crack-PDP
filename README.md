@@ -39,10 +39,14 @@ Skip over to section [Solution](#Solution).
 
 2.6 Manual filling of work-log after work-session,which i guess can be automated.
 
+2.7 Slower to compile and at times produces cryptic error messages.
+
 # <a name="Solution"></a>Solution
 
 Use emacs or spacemacs (incase you're a vim user like me)
+
 Native emacs/spacemacs doesn't support racket out of the box.
+
 We have to install racket mode on top of emacs/spacemacs to take support emacs/spacemacs.
 
 With Racket mode we have 
@@ -61,7 +65,7 @@ With Racket mode we have
 
 2.5 Automatic filling of work log after every work session
 
-
+2.6 Faster Compilation and better error messages.
 
 [beforeSubmission]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/no%20syntax%20coloring.png
 
@@ -73,10 +77,6 @@ With Racket mode we have
  
 [withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax%20coloring.png
  
-
-
-
-
 
 
 
