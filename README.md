@@ -61,6 +61,8 @@ With Racket mode we have
 
 2.3 Snippets for Boilerplate code.
 
+![alt text][snippetGif]
+
 2.4 Auto Commit Plugin for those who forget to commit/push the latest code.
 
 2.5 Automatic filling of work log after every work session
@@ -89,6 +91,6 @@ Now since emacs/spacemacs does'nt support image encoding we would not have the p
  
 [withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax%20coloring.png
  
-
+[snippetGif] : https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/AutoComplte%20Snippet%20Demo.gif
 
 
