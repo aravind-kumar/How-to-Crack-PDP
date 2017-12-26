@@ -91,6 +91,6 @@ Now since emacs/spacemacs does'nt support image encoding we would not have the p
  
 [withsyntaxHighlihting]: https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/syntax%20coloring.png
  
-[snippetGif] : https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/AutoComplte%20Snippet%20Demo.gif
+[snippetGif] (https://github.com/aravind-kumar/How-to-Crack-PDP/blob/master/images/AutoComplte%20Snippet%20Demo.gif)
 
 
